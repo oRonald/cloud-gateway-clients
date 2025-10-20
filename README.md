@@ -6,7 +6,7 @@ O Cloud Gateway é uma ponte que padroniza o acesso aos microserviços a partir 
 <hr/>
 
 Como mostrado na imagem, cada microserviço possui uma porta específica e com o gateway podemos centralizar todas as requisições à um único caminho,
-facilitando toda a comunicação com Client-Server sem que o cliente precise especificar para qual microserviço ele deseja se comunicar.
+facilitando toda a comunicação com Client-Server sem que o cliente precise especificar a porta para qual microserviço ele deseja se comunicar.
 
 ## Vantagens
 - URL única e padrão para todos os microserviços.
